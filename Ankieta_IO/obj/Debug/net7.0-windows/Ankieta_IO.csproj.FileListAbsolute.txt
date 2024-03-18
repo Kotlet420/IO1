@@ -1,0 +1,17 @@
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\bin\Debug\net7.0-windows\Ankieta_IO.exe
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\bin\Debug\net7.0-windows\Ankieta_IO.deps.json
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\bin\Debug\net7.0-windows\Ankieta_IO.runtimeconfig.json
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\bin\Debug\net7.0-windows\Ankieta_IO.dll
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\bin\Debug\net7.0-windows\Ankieta_IO.pdb
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.Form1.resources
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.csproj.GenerateResource.cache
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.AssemblyInfoInputs.cache
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.AssemblyInfo.cs
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.csproj.CoreCompileInputs.cache
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.dll
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\refint\Ankieta_IO.dll
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.pdb
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.genruntimeconfig.cache
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\ref\Ankieta_IO.dll
+C:\Users\SuperStudent-PL\Desktop\ankieta\teleinfsem2sekcja6AISD\Ankieta_IO\obj\Debug\net7.0-windows\Ankieta_IO.Properties.Resources.resources
